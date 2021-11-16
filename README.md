@@ -7,7 +7,7 @@ minecraft server support
 
 /fact permision:- mc.fact
 
-/fact 2b2t permision:- mc.fact2b2t
+/2b2t permision:- mc.fact2b2t
 
 Till now it contains
 

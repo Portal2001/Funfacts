@@ -1,0 +1,15 @@
+name: "funfacts"
+version: "beta-0.12"
+main: "vb.$funfacts.PluginMain"
+api-version: 1.13
+author: "fickletcell"
+description: "50 facts about minecraft"
+commands:
+  fact:
+    description: "facts about minecraft"
+    permission: "mc.fact"
+    permission-message: "no no you cant"
+    usage: "/fact"
+permissions:
+  mc.fact:
+    default: op

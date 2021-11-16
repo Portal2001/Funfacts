@@ -9,6 +9,18 @@ minecraft server support
 
 /fact 2b2t permision:- mc.fact2b2t
 
+Till now it contains
+
+50 minecraft facts ,20 2b2t facts
+
+features:-
+
+nolag 
+
+only seen by command sender
+
+no console spam
+etc.
 
 Credits:-
 

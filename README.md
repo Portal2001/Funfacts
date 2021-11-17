@@ -37,6 +37,7 @@ plugin is in beta not for big production server
 plugin have no config till now because facts dont need edit.
 
 more features are on the way
+
 buy me a coffee
 https://ko-fi.com/fickletcell
 

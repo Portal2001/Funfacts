@@ -17,10 +17,8 @@ features:-
 - optimized
 
 Credits:-
-
-fitmc youtube (2b2t facts)
-
-41 facts website
+- fitmc youtube (2b2t facts)
+- 41 facts website
 
 Disclamer:-
 

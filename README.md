@@ -31,6 +31,7 @@ plugin have no config till now because facts dont need edit.
 more features are on the way
 
 buy me a coffee
-https://ko-fi.com/fickletcell
+- https://ko-fi.com/fickletcell
+- https://paypal.me/fickletcell?country.x=IN&locale.x=en_GB
 
 ![2021-11-17_00 56 02](https://user-images.githubusercontent.com/74851280/142052147-cde12f80-94a4-4749-ad90-fb602749657b.png)
